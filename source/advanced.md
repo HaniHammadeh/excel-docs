@@ -6,7 +6,7 @@ Here are some advanced features to take your Excel skills to the next level:
 
 Conditional formatting allows you to change the appearance of a cell based on its value.
 
-1. Select the cells you want to format.
+1. Select the cells you want to format..
 2. Go to the `Home` tab and click `Conditional Formatting`.
 3. Choose a rule (e.g., `Highlight Cell Rules`, `Data Bars`, `Color Scales`).
 
