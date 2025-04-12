@@ -10,3 +10,4 @@ Excel allows you to perform basic arithmetic operations directly in cells.
 To add numbers, use the `+` operator.
 
 > =5 + 3  // Adds 5 and 3
+> =6 + 7 // Adds 6 and 7
